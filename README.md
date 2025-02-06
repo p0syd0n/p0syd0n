@@ -1,10 +1,11 @@
 ## Hello!!
 I'm posydon.
-I'm curently working on a privacy oriented platform called [Mount Olympus](https://github.com/p0syd0n/Mount-Olympus). I do my best to work on it regularly but I'm restrained by circumstances outside of my control right now :(
+I'm curently working on a privacy oriented platform called [Mount Olympus](https://github.com/p0syd0n/Mount-Olympus). I do my best to work on it regularly!
 
 I'm currently learning C through other, minor projects, and looking to collaborate on just about anything. 
 Anyone who is a god at Qubes OS, I would appreciate some help with setting up a gaming VM!! Hmu through methods below.
-Im reachable through telegram, @mrqueueue 
+
+I'm reachable through telegram, @mrqueueue 
 <!--
 **p0syd0n/p0syd0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
