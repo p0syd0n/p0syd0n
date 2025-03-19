@@ -1,11 +1,13 @@
 ## Hello!!
-I'm posydon.
-I'm curently working on a privacy oriented platform called [Mount Olympus](https://github.com/p0syd0n/Mount-Olympus). I do my best to work on it regularly!
+I'm posydon.  
+Follow me so that I can have more clout and flex on @OnyxDev87!!!!! (worth is defined by github followers)  
 
-I'm currently learning C through other, minor projects, and looking to collaborate on just about anything. 
-Anyone who is a god at Qubes OS, I would appreciate some help with setting up a gaming VM!! Hmu through methods below.
+I'm reachable through telegram, @mrqueueue, i might not respond, my emails are posydon9752@gmail.com and posydon9754@gmail.com. I'll check them eventually.  
 
-I'm reachable through telegram, @mrqueueue 
+Send me your dotfiles and arch desktop screenshots
+
+
+(Why do I have 2 stars on a repo I forked by accident and never added to?)
 <!--
 **p0syd0n/p0syd0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
